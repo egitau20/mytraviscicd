@@ -20,6 +20,6 @@ deploy:
   env: $EB_ENV
   bucket_name: $BUCKET_NAME
   on:
-    branch: master
+    branch: main
   
   
